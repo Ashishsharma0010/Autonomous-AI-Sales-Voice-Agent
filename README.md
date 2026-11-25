@@ -1,8 +1,16 @@
-# Autonomous AI Sales Voice Agent — Fortivex AI Technical Assessment
+**Agent Name:** Aria  
+**Project:** Autonomous AI Sales Voice Agent  
+**Category:** Generative AI · Agentic AI · Voice Automation  
+**Backend:** Python 3.14 · FastAPI · WebSockets  
+**AI Capabilities:** LLM Integration · RAG · STT · TTS · BANT Lead Qualification · Sentiment Analysis  
+**Storage:** SQLite · aiosqlite  
+**Testing:** 44 automated tests passing
 
-> **Agent Name:** Aria  
-> **Stack:** Python 3.14 · FastAPI · SQLite · Edge-TTS · TF-IDF RAG · WebSocket  
-> **Status:** All 44 automated tests passing ✅
+Overview
+
+Aria is an autonomous AI-powered sales voice agent built to automate B2B sales conversations. It interacts with potential customers through voice and text, understands customer requirements, qualifies leads using the BANT framework, retrieves relevant business information using RAG, and automates appointment booking and CRM synchronization.
+
+The platform also provides real-time sentiment analysis, contextual conversation memory, lead scoring, and post-call business intelligence
 
 ---
 
