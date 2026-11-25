@@ -1,0 +1,42 @@
+[
+  {
+    "id": "obj-001",
+    "objection": "The solution is too expensive compared to traditional human SDRs.",
+    "category": "objection",
+    "content": "Handling: While human SDRs cost approximately $65,000 to $85,000 annually with benefits, equipment, and management overhead (equating to over $35/hour), Fortivex AI operates at less than $0.10 per qualified lead conversation with 24/7 availability. Customers typically achieve an 80% reduction in customer acquisition cost while capturing 100% of after-hours leads.",
+    "metadata": {
+      "objection_type": "pricing_budget",
+      "value_proposition": "80% cost reduction, 24/7 availability"
+    }
+  },
+  {
+    "id": "obj-002",
+    "objection": "We already have an in-house sales team, so we do not need AI.",
+    "category": "objection",
+    "content": "Handling: Fortivex AI is designed to augment and empower your human sales team, not replace them. By automating repetitive tier-1 lead qualification and calendar booking, your human account executives only speak with pre-qualified, high-intent prospects, multiplying their closing productivity by 3x.",
+    "metadata": {
+      "objection_type": "existing_sales_team",
+      "value_proposition": "Augmentation, 3x AE productivity"
+    }
+  },
+  {
+    "id": "obj-003",
+    "objection": "AI voice agents sound robotic and will frustrate our buyers.",
+    "category": "objection",
+    "content": "Handling: Fortivex AI uses state-of-the-art neural speech synthesis with expressive prosody, natural breathing cues, and dynamic emotional tone adaptation. Coupled with sub-400ms latency and intelligent interruption handling, buyers frequently cannot distinguish the agent from a human representative.",
+    "metadata": {
+      "objection_type": "robotic_voice_quality",
+      "value_proposition": "Neural speech, natural turn-taking, <400ms latency"
+    }
+  },
+  {
+    "id": "obj-004",
+    "objection": "We are worried about data privacy and proprietary data leaks.",
+    "category": "objection",
+    "content": "Handling: Security is our highest priority. We sign comprehensive Business Associate Agreements (BAAs) and enterprise Data Processing Agreements (DPAs). Data is siloed per tenant, encrypted with customer-managed keys, and never shared or used for foundational model training.",
+    "metadata": {
+      "objection_type": "data_privacy_security",
+      "value_proposition": "Tenant isolation, zero model training, BAA/DPA"
+    }
+  }
+]

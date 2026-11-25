@@ -1,0 +1,36 @@
+[
+  {
+    "id": "prod-001",
+    "title": "Fortivex Inbound Voice SDR",
+    "category": "product",
+    "content": "Fortivex Inbound Voice SDR is an autonomous AI sales agent that answers incoming inbound calls 24/7. It qualifies leads in real-time using the BANT (Budget, Authority, Need, Timeline) framework, resolves product inquiries instantly, and directly schedules qualified prospects on executive calendars via automated appointment booking.",
+    "metadata": {
+      "product_type": "inbound_agent",
+      "target_audience": "B2B SaaS, Enterprise sales teams",
+      "core_features": ["24/7 call answering", "Real-time BANT qualification", "Calendar appointment booking", "Sub-400ms voice turnaround"]
+    }
+  },
+  {
+    "id": "prod-002",
+    "title": "Fortivex Outbound Pipeline Accelerator",
+    "category": "product",
+    "content": "Fortivex Outbound Pipeline Accelerator engages cold and warm leads within 60 seconds of form submission. It conducts personalized voice outreach, overcomes common objections, and syncs all lead scoring and sentiment data directly into HubSpot, Salesforce, or custom webhooks.",
+    "metadata": {
+      "product_type": "outbound_agent",
+      "target_audience": "Mid-market & Enterprise Growth Teams",
+      "core_features": ["Speed-to-lead under 60 seconds", "CRM bidirectional sync", "Multi-touch cadence", "Sentiment analysis"]
+    }
+  },
+  {
+    "id": "prod-003",
+    "title": "Fortivex Pricing & Subscription Tiers",
+    "category": "pricing",
+    "content": "Fortivex AI SaaS pricing is structured into three tiers: Starter Tier: $499/month, includes 1,000 voice minutes, standard CRM sync, and up to 3 concurrent voice channels. Growth Tier: $1,499/month, includes 5,000 voice minutes, custom voice cloning, multilingual support (40+ languages), HubSpot/Salesforce two-way integration, and 10 concurrent channels. Enterprise Tier: Custom pricing starting at $4,999/month, offering unlimited minutes, dedicated customer success manager, custom LLM fine-tuning, SOC2 compliance reports, on-premise or private VPC deployment, and 99.99% uptime SLA.",
+    "metadata": {
+      "pricing_starter": "$499/month for 1,000 minutes",
+      "pricing_growth": "$1,499/month for 5,000 minutes",
+      "pricing_enterprise": "Custom starting at $4,999/month for unlimited scale",
+      "trial": "14-day free trial with 100 complimentary voice minutes"
+    }
+  }
+]

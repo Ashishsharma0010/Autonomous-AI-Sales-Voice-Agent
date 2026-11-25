@@ -1,0 +1,43 @@
+[
+  {
+    "id": "faq-001",
+    "question": "What is the voice response latency of the agent?",
+    "category": "faq",
+    "content": "Fortivex AI achieves an ultra-low voice response latency of under 400 milliseconds. We utilize full-duplex streaming WebSockets, fast streaming STT models, and edge-accelerated neural speech synthesis to deliver fluid, natural human-speed conversations without awkward pauses.",
+    "metadata": {
+      "topic": "latency_performance",
+      "latency": "<400ms"
+    }
+  },
+  {
+    "id": "faq-002",
+    "question": "Is customer data secure and compliant with data privacy regulations?",
+    "category": "faq",
+    "content": "Data security is enterprise-grade. Fortivex AI is SOC2 Type II certified, GDPR compliant, and HIPAA compliant. All audio streams and transcriptions are encrypted in transit using TLS 1.3 and at rest using AES-256 encryption. We enforce a strict zero-data-retention policy for foundation model training, meaning customer voice data is never used to train third-party models.",
+    "metadata": {
+      "topic": "security_compliance",
+      "certifications": ["SOC2 Type II", "GDPR", "HIPAA", "AES-256"]
+    }
+  },
+  {
+    "id": "faq-003",
+    "question": "Which CRM and telephony platforms do you integrate with?",
+    "category": "faq",
+    "content": "Fortivex AI natively integrates with major CRMs including Salesforce, HubSpot, Zoho, and Pipedrive, as well as generic REST webhooks. For telephony and audio transport, we support SIP trunking, Twilio, WebRTC, and browser-embedded microphone widgets.",
+    "metadata": {
+      "topic": "integrations",
+      "crms": ["Salesforce", "HubSpot", "Zoho", "Pipedrive"],
+      "telephony": ["SIP Trunking", "Twilio", "WebRTC"]
+    }
+  },
+  {
+    "id": "faq-004",
+    "question": "Does Fortivex AI support multilingual conversations?",
+    "category": "faq",
+    "content": "Yes, Fortivex AI provides dynamic multilingual communication in over 40 languages including English, Spanish, Hindi, French, German, Japanese, and Mandarin. The agent automatically detects the language spoken by the customer in real-time and responds in the same language with natural native accent and idiom handling.",
+    "metadata": {
+      "topic": "multilingual",
+      "languages_supported": 40
+    }
+  }
+]
